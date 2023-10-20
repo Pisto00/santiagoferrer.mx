@@ -14,5 +14,41 @@ minify:
   disableXML: true
   minifyOutput: false
 
+menu:
+  main:
+  - identifier: Categorias
+    name: Categorias
+    url: /categories/
+    weight: 30
+  - identifier: tags
+    name: Tags
+    url: /tags/
+    weight: 40
+  - identifier: archives
+    name: Archivos
+    url: /archives/
+    weight: 10
+  - identifier: Search
+    name: Busqueda
+    url: search/
+    weight: 20
+
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false 
