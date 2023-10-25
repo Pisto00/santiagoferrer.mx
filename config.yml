@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 googleAnalytics: UA-123-45
 
@@ -30,8 +31,14 @@ menu:
     weight: 10
   - identifier: Search
     name: Busqueda
-    url: search/
+    url: /search/
     weight: 20
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
 
 params:
@@ -52,3 +59,27 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false 
+  enableRobotsTXT: true
+
+  profileMode:
+    enabled: true
+    title: "Santiago Ferrer" # optional default will be site title
+    subtitle: "Hola probando, probando"
+    imageUrl: "<image link>" # optional
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+        - name: Blog
+          url: "/blog"
+        - name: Ensayos
+          url: "/essays/"
+        - name: Emprendedores
+          url: "/business-interviews/"
+
+
+    socialIcons: # optional
+        - name: "twitter"
+          url: "https://www.twitter.com/santiago_ferr/"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/santiago-ferrer/"
