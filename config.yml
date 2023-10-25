@@ -60,7 +60,7 @@ params:
   showtoc: false
   tocopen: false 
   enableRobotsTXT: true
-  hamBurgerMenu: true
+  
   socialIcons: # optional
       - name: "twitter"
         url: "https://www.twitter.com/santiago_ferr/"
