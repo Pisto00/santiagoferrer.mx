@@ -60,15 +60,24 @@ params:
   showtoc: false
   tocopen: false 
   enableRobotsTXT: true
+  socialIcons: # optional
+      - name: "twitter"
+        url: "https://www.twitter.com/santiago_ferr/"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/santiago-ferrer/"
+      - name: buymeacoffee
+        url: "https://www.buymeacoffee.com/santiagoferrer"
+
 
   profileMode:
     enabled: true
     title: "Santiago Ferrer" # optional default will be site title
     subtitle: "Hola probando, probando"
-    imageUrl: "<image link>" # optional
+    imageUrl: /Profile Pic/PF_3.jpg # optional
     imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
+
     buttons:
         - name: Blog
           url: "/blog"
@@ -76,10 +85,3 @@ params:
           url: "/essays/"
         - name: Emprendedores
           url: "/business-interviews/"
-
-
-    socialIcons: # optional
-        - name: "twitter"
-          url: "https://www.twitter.com/santiago_ferr/"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/santiago-ferrer/"
