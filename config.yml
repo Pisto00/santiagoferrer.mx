@@ -1,6 +1,6 @@
 baseURL: "https://www.santiagoferrer.mx"
 title: Santiago Ferrer
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 
@@ -41,11 +41,12 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  
   GoogleAnalytics: G-GVM1X4NZTG
   
   analytics:
     google:
-        SiteVerificationTag: G-GVM1X4NZTG
+        SiteVerificationTag: "G-GVM1X4NZTG"
 
   ShowReadingTime: true
   ShowShareButtons: true
