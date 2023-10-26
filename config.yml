@@ -9,8 +9,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-GoogleAnalytics: G-GVM1X4NZTG
-
 minify:
   disableXML: true
   minifyOutput: false
@@ -43,6 +41,11 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  GoogleAnalytics: G-GVM1X4NZTG
+  
+  analytics:
+    google:
+        SiteVerificationTag: G-GVM1X4NZTG
 
   ShowReadingTime: true
   ShowShareButtons: true
