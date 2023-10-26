@@ -9,7 +9,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-googleAnalytics: UA-123-45
+GoogleAnalyticsID: G-GVM1X4NZTG
 
 minify:
   disableXML: true
@@ -60,7 +60,7 @@ params:
   showtoc: false
   tocopen: false 
   enableRobotsTXT: true
-  
+  hamBurgerMenu: true
   socialIcons: # optional
       - name: "twitter"
         url: "https://www.twitter.com/santiago_ferr/"
