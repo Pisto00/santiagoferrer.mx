@@ -9,7 +9,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-GoogleAnalyticsID: G-GVM1X4NZTG
+GoogleAnalytics: G-GVM1X4NZTG
 
 minify:
   disableXML: true
