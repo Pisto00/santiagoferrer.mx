@@ -5,7 +5,6 @@ canonicalURL: 'https://santiagoferrer.mx/essays/impuestos-en-mexico-y-alemania'
 
 date: '2023-11-09T22:24:44-06:00'
 author: 'Santiago Ferrer'
-draft: false
 description: "En México las empresas pagan los mismos impuestos que en Australia, Japón, Alemania y Bélgica."
 
 summary: ''

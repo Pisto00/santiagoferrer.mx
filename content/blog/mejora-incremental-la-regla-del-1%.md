@@ -5,7 +5,6 @@ canonicalURL: 'https://santiagoferrer.mx/blog/mejora-incremental-la-regla-del-1%
 
 date: '2023-11-08T22:24:44-06:00'
 author: 'Santiago Ferrer'
-draft: false
 description: "La mejora incremental son pequeños cambios constantes, acumulados con el tiempo, que logran resultados sorprendentes."
 
 summary: ''
