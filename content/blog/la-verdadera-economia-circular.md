@@ -11,13 +11,11 @@ description: "Reutilizar objetos y espacios, promover economía circular, aplica
 hidemeta: false
 summary: 'la verdadera economia circular es crear cosas con más propósitos'
 tags: ['framework']
-categories: []
 showtoc: false
 hideSummary: True
 ---
 
 ***
-
 
 Cada día, suena más en mi cabeza la idea de utilizar lugares y objetos desperdiciados. Cuando alguien crea algo, lo hace con uno o varios propósitos, pero con el paso del tiempo puede ser que el objeto ya no es capaz de cumplir su propósito, en ese momento la existencia de ese objeto es inútil, ya no tiene razón de existir. Cuando un objeto pierde su propósito pierde su valor, por lo tanto se convierte en objeto no deseado. También le decimos basura. Ese objeto ya no tiene ninguna utilidad por lo que el abandono es su destino. 
 
