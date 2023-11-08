@@ -1,9 +1,9 @@
 ---
-title: 'Las empresas Mexicanas pagan los mismos impuestos que las alemanas ¿Porque?'
+title: 'Impuestos en México vs Europa'
 url: essays/impuestos-en-mexico-y-alemania
 canonicalURL: 'https://santiagoferrer.mx/essays/impuestos-en-mexico-y-alemania'
 
-date: '2023-11-09T22:24:44-06:00'
+date: '2023-11-08T14:07:49-06:00'
 author: 'Santiago Ferrer'
 description: "En México las empresas pagan los mismos impuestos que en Australia, Japón, Alemania y Bélgica."
 
@@ -22,7 +22,7 @@ No me cabe en la cabeza, que siendo la quinceava economía del mundo y teniendo 
 
 Tenemos la misma tasa impositiva que Alemania y Australia, pero no tenemos ni cerca de la calidad de vida que tienen ellos. Lo que si tenemos es una enorme ineficiencia en el sistema plagada de remoras que juegan con el futuro de los mexicanos.
 
-![](/static/essays/comparacion impuestos/comparación-tax.png)
+![](/essays/comparacion impuestos/comparación-tax.png)
 
 La muy repetida frase “En los países desarrollados pagas más impuestos pero allá si sirven” es completamente falsa de echo países como Suiza, Noruega, Estados Unidos o Reino Unido tienen tasas corporativas mucho más bajas que México. Las tasas bajas fomentan la competencia y el desarrollo económico por medio de las empresas.
 

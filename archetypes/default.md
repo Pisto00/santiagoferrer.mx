@@ -4,7 +4,7 @@ url:
 canonicalURL:
 date: '{{ .Date }}'
 author: Santiago Ferrer
-draft: true
+draft: false
 description: 
 hidemeta: false
 summary:
