@@ -47,7 +47,11 @@ params:
   analytics:
     google:
         SiteVerificationTag: "G-GVM1X4NZTG"
-
+  
+  description: Universo de Santiago Ferrer. Ensayos, Blog y entrevistas con emprendedores. 
+  author: Santiago Ferrer
+  keywords: [santiago ferrer, santiago ferrer oll, santiago ferrer ollivier, quien es santiago ferrer, santiago ferrer emprendedores, santiago ferrer emprendedor]
+  hidemeta: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
