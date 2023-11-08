@@ -22,7 +22,7 @@ No me cabe en la cabeza, que siendo la quinceava economía del mundo y teniendo 
 
 Tenemos la misma tasa impositiva que Alemania y Australia, pero no tenemos ni cerca de la calidad de vida que tienen ellos. Lo que si tenemos es una enorme ineficiencia en el sistema plagada de remoras que juegan con el futuro de los mexicanos.
 
-![](/essays/comparacion impuestos/comparación-tax.png)
+![Calidad de vida vs impuestos](/comparación-tax.png)
 
 La muy repetida frase “En los países desarrollados pagas más impuestos pero allá si sirven” es completamente falsa de echo países como Suiza, Noruega, Estados Unidos o Reino Unido tienen tasas corporativas mucho más bajas que México. Las tasas bajas fomentan la competencia y el desarrollo económico por medio de las empresas.
 
