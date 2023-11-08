@@ -5,7 +5,7 @@ canonicalURL: "https://santiagoferrer.mx/blog/la-verdadera-economia-circular"
 
 date: "2023-11-07T22:24:44-06:00"
 author: "Santiago Ferrer"
-draft: true
+draft: false
 description: "Reutilizar objetos y espacios, promover economía circular, aplicar temporalidad, y cambiar propósitos para reducir desperdicio y contaminación."
 
 hidemeta: false
