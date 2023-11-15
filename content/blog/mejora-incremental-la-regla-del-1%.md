@@ -4,7 +4,7 @@ date: '2023-11-08T14:07:59-06:00'
 draft: false
 
 url: /blog/mejora-incremental-la-regla-del-1
-canonicalURL: "https://santiagoferrer.mx/blog/mejora-incremental-la-regla-del-1"
+canonicalURL: "https://www.santiagoferrer.mx/blog/mejora-incremental-la-regla-del-1"
 
 
 author: "Santiago Ferrer"

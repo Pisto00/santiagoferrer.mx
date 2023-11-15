@@ -1,7 +1,7 @@
 ---
 title: 'Todos Estamos Locos'
 url: blog/todos-estamos-locos
-canonicalURL: 'https://santiagoferrer.mx/blog/todos-estamos-locos'
+canonicalURL: 'https://www.santiagoferrer.mx/blog/todos-estamos-locos'
 
 date: '2023-11-08T16:30:45-06:00'
 author: 'Santiago Ferrer'

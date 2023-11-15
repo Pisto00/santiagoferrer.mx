@@ -1,7 +1,7 @@
 ---
 title: 'No Somos Libres'
 url: blog/no-somos-libres
-canonicalURL: 'https://santiagoferrer.mx/blog/no-somos-libres'
+canonicalURL: 'https:www.//santiagoferrer.mx/blog/no-somos-libres'
 
 date: '2023-11-08T16:40:45-06:00'
 author: 'Santiago Ferrer'
@@ -9,7 +9,7 @@ draft: false
 description: "No somos libres, pero podemos elegir nuestra actitud. La verdadera libertad está en nuestra mente."
 
 hidemeta: false
-summary: 'La libertad es una illusion'
+summary: 'La libertad es una illusión'
 tags: ['filosofia']
 showtoc: false
 hideSummary: True

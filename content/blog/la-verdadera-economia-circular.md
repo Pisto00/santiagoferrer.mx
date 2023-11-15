@@ -1,7 +1,7 @@
 ---
 title: 'La Verdadera Economía Circular'
 url: blog/la-verdadera-economia-circular
-canonicalURL: 'https://santiagoferrer.mx/blog/la-verdadera-economia-circular'
+canonicalURL: 'https://www.santiagoferrer.mx/blog/la-verdadera-economia-circular'
 
 date: '2023-11-07T22:24:44-06:00'
 author: 'Santiago Ferrer'

@@ -1,7 +1,7 @@
 ---
 title: 'Impuestos en México vs Europa'
 url: essays/impuestos-en-mexico-y-alemania
-canonicalURL: 'https://santiagoferrer.mx/essays/impuestos-en-mexico-y-alemania'
+canonicalURL: 'https://www.santiagoferrer.mx/essays/impuestos-en-mexico-y-alemania'
 
 date: '2023-11-08T14:07:49-06:00'
 author: 'Santiago Ferrer'
