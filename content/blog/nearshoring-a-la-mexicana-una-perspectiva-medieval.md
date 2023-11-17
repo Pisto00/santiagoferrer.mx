@@ -36,7 +36,8 @@ A Estados Unidos no solo llegaron personas con esta nueva forma de pensar, tambi
 
 En cambio, durante 300 años, a México solo llegaron españoles con ideas medievales, porque literalmente España no permitía que llegara nadie que no fuera católico.
 
-El problema es que México sigue siendo un país con ideas medievales. Observa las grandes fortunas, los grades empresarios... Casi todos tienen intereses en la tierra, explotan la tierra, heredan, compran y construyen sobre esta. La innovación brilla por su ausencia. No hay tecnología. No hay una transformación de bienes. No hay dinero nuevo. No hay movilidad social.
+### 2023 y el medievo mexicano
+El problema es que México sigue siendo un país con ideas medievales. Observa las grandes fortunas, los grades empresarios... La mayoría tienen intereses en la tierra, explotan la tierra, heredan, compran y construyen sobre esta. La innovación brilla por su ausencia. No hay tecnología. No hay una transformación de bienes. No hay dinero nuevo. No hay movilidad social.
 
 ¿Qué tiene que ver todo esto con el nearshoring? Pues simple: como México está aprovechando el nearshoring... **CONSTRUYENDO BODEGAS.**
 
