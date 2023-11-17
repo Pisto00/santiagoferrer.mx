@@ -18,9 +18,9 @@ hideSummary: True
 ---
 ***
 
-El nearshoring es la promesa de la que tantos hablan... esa promesa de riqueza, de que por fin, Estados Unidos, Canadá y Mexico se fusionarán en una superpotencia...
+El nearshoring es la promesa que todo mexicano esta esperando... Vientos de riqueza se avecinan según el jefe de jefes Jamie Dimon. 
 
-Sin embargo, al explorar las oportunidades dentro de esta tendencia y no encuentro nada. Solo encuentro economistas —profetas modernos— enlistando los posibles beneficios.
+Sin embargo, al explorar las oportunidades dentro de esta tendencia no encuentro nada. Solo encuentro profetas modernos —economistas— enlistando los posibles beneficios.
 
 Por otro lado, veo que los grandes capitales de México están... construyendo plantas industriales y almacenes. Incluso, Fibra Uno está creando *Fibra Next*, dedicada exclusivamente al nearshoring.
 
