@@ -9,6 +9,11 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+
 minify:
   disableXML: true
   minifyOutput: false
