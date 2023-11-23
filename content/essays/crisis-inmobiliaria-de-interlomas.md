@@ -6,7 +6,7 @@ canonicalURL: 'https://www.santiagoferrer.mx/essays/crisis-inmobiliaria-de-inter
 date: '2023-11-23T12:56:19-06:00'
 author: Santiago Ferrer
 
-description: "Descubre por qué Interlomas enfrenta una burbuja inmobiliaria. La plusvalia de Interlomas se ha acabado y ahora empieza el declive."
+description: "Descubre por qué Interlomas enfrenta una burbuja inmobiliaria. La plusvalía de Interlomas se ha acabado y ahora empieza el declive."
 
 summary: ''
 tags: ['bienes raices']
@@ -17,7 +17,7 @@ draft: false
 
 cover:
     image: "/essays/images/Burbuja inmobiliaria en Interlomas.png"
-    alt: "Se acabo la plusvalia en interlomas"
+    alt: "Se acabo la plusvalía en interlomas"
     caption: "Apocalipsis De Interlomas"
     relative: false
 ---
