@@ -96,3 +96,10 @@ params:
           url: "/essays/"
         - name: Emprendedores
           url: "/business-interviews/"
+
+  cover:
+    responsiveImages: false
+    linkFullImages: true
+    hidden: true
+    hiddenInList: true 
+    hiddenInSingle: false 
