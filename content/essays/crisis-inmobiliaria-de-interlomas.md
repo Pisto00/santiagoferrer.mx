@@ -20,14 +20,6 @@ cover:
     alt: "Se acabo la plusvalia en interlomas"
     caption: "Apocalipsis De Interlomas"
     relative: false
-
-params:
-    cover:
-        responsiveImages: false
-        linkFullImages: true
-        hidden: true
-        hiddenInList: true 
-        hiddenInSingle: false 
 ---
 ***
 
