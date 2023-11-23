@@ -25,11 +25,11 @@ cover:
 
 ## Introducción
 
-Invertir en bienes raíces: ¿Qué es esto? ¿A qué se refieren? Unos dicen que es una buena idea, otros dicen que es la peor inversión de tu vida... El discurso de "compra donde vives" tiene siglos de vida. Probablemente porque antes era verdad; al final, en el pasado, si no tenías tierras, probablemente significaba que no tenías, ni siquiera, libertad.
+Invertir en bienes raíces: ¿Qué es esto? ¿A qué se refieren? Unos dicen que es una buena idea, otros dicen que es la peor inversión de tu vida... El discurso de "compra donde vives" tiene siglos de vida. Probablemente porque antes era verdad; al final, en el pasado, si no tenías tierras, probablemente significaba que no tenías ni siquiera libertad.
 
 ¿Pero qué tan real es? O mejor, ¿qué tan anticuado es? A pesar de todo, los bienes raíces son la [industria más grande del mundo](https://www.savills.com/impacts/market-trends/8-things-you-need-to-know-about-the-value-of-global-real-estate.html), el [80% de los millonarios se hacen con bienes raíces](https://investfourmore.com/how-do-most-millionaires-make-their-money/). Hay muchas opciones por donde irte. Pero no vamos a hablar de eso.
 
-El tema de este ensayo es por qué comprar específicamente en Interlomas es el peor error de tu vida. Si leíste bien. El peor error. Si tienes una propiedad en Interlomas, haz lo que puedas para venderla y salirte de ahí.
+El tema de este ensayo es por qué comprar específicamente en Interlomas es el peor error de tu vida. Si, leíste bien. El peor error. Si tienes una propiedad en Interlomas, haz lo que puedas para venderla y salirte de ahí.
 
 Okay, tal vez estoy exagerando, pero los datos muestran una realidad poco favorable para la zona.
 
@@ -193,7 +193,7 @@ Porque no solo es el tráfico de Interlomas, es el acumulado de todas las zonas 
 
 La solución: vendo y me cambio más cerca. El problema es que todos se den cuenta al mismo tiempo. Y empiecen a vender. Al mismo tiempo. Y que nadie quiera comprar. Y que sus precios empiecen a bajar y bajar y bajar... Hasta que se den cuenta de que nadie quiere comprar en la zona. Y que tengan un inmueble 60% abajo del pico. Ahí va a tronar la burbuja. Y te vas a tener que esperar a que vuelva a subir, mientras sufres de una terrible calidad de vida, o a mal vender tu propiedad y escoger: calidad de vida.
 
-Todo esto es especulativo. Lo que no son son los hechos.
+Todo esto es especulativo. Lo que no, son son los hechos.
 
 - Ya no hay espacio para más coches en Interlomas.
 - La gente joven no quiere vivir ahí.
