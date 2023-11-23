@@ -6,7 +6,7 @@ canonicalURL: 'https://www.santiagoferrer.mx/essays/crisis-inmobiliaria-de-inter
 date: '2023-11-23T12:56:19-06:00'
 author: Santiago Ferrer
 
-description: "Descubre por qué Interlomas enfrenta una burbuja inmobiliaria. La pulsvalia de interlomas se ha acabado y ahora empieza el declive."
+description: "Descubre por qué Interlomas enfrenta una burbuja inmobiliaria. La plusvalia de Interlomas se ha acabado y ahora empieza el declive."
 
 summary: ''
 tags: ['bienes raices']
@@ -45,7 +45,7 @@ _Primero es entender las condiciones actuales de Interlomas._
 
 ## Densidad Poblacional 
 
-Ya existe una alta densidad poblacional. Según los datos del [último censo del Inegi](https://documentos.huixquilucan.gob.mx/CIIM/Presentaciones/Resultados%20Censo%20de%20Poblaci%C3%B3n%20y%20Vivienda%202020%20-%20INEGI%20-%20Huixquilucan.pdf), la densidad poblacional de Huixquilucan es de 2,018 habitantes. No es tanto en comparación con la CDMX, donde el [promedio](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/EstSociodemo/ResultCenso2020_CdMx.pdf) es de 6,163.
+Ya existe una alta densidad poblacional. Según los datos del [último censo del INEGI](https://documentos.huixquilucan.gob.mx/CIIM/Presentaciones/Resultados%20Censo%20de%20Poblaci%C3%B3n%20y%20Vivienda%202020%20-%20INEGI%20-%20Huixquilucan.pdf), la densidad poblacional de Huixquilucan es de 2,018 habitantes. No es tanto en comparación con la CDMX, donde el [promedio](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2021/EstSociodemo/ResultCenso2020_CdMx.pdf) es de 6,163.
 
 Entonces, ¿dónde está la sobredensidad? Viendo más a fondo los datos, podemos encontrar que el **58%** de la población de Huixquilucan se encuentra en las localidades de Naucalpan de Juárez **(47%)** y Jesús Del Monte **(11%)**. Justo es la localidad de donde se sitúa Interlomas. Por lo tanto, la densidad es mucho mayor en esa zona. No son casualidad los enormes desarrollos de la zona.
 
