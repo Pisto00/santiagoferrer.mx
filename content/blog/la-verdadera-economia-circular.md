@@ -13,6 +13,7 @@ summary: 'la verdadera economia circular es crear cosas con más propósitos'
 tags: ['framework']
 showtoc: false
 hideSummary: True
+ShowBreadCrumbs: false
 ---
 
 ***

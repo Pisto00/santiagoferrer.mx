@@ -56,7 +56,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: false
+  ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
@@ -103,3 +103,9 @@ params:
     hidden: true
     hiddenInList: true 
     hiddenInSingle: false 
+
+  assets:
+        favicon: "/Favicon/favicon.ico"
+        favicon16x16:  "/Favicon/favicon-16x16.webp"
+        favicon32x32:  "/Favicon/favicon-32x32.webp"
+        apple_touch_icon:  "/Favicon/apple-touch-icon.webp"

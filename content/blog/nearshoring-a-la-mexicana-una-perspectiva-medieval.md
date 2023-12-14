@@ -2,8 +2,8 @@
 title: 'Nearshoring a la Mexicana: Una Perspectiva Medieval'
 
 
-url: blog/nearshoring-a-la-mexicana-una-perspectiva-medieval
-canonicalURL: 'https://www.santiagoferrer.mx/blog/nearshoring-a-la-mexicana-una-perspectiva-medieval'
+url: blog/nearshoring-a-la-mexicana-una-perspectiva-medieval/
+canonicalURL: 'https://www.santiagoferrer.mx/blog/nearshoring-a-la-mexicana-una-perspectiva-medieval/'
 
 
 date: '2023-11-16T21:40:05-06:00'
@@ -15,6 +15,7 @@ summary:
 tags: [economia,mexico]
 categories: []
 hideSummary: True
+ShowBreadCrumbs: false
 ---
 ***
 

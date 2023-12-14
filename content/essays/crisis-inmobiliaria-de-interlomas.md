@@ -1,7 +1,7 @@
 ---
 title: 'El Apocalipsis De Interlomas: Burbuja Inmobiliaria'
 url: essays/crisis-inmobiliaria-de-interlomas
-canonicalURL: 'https://www.santiagoferrer.mx/essays/crisis-inmobiliaria-de-interlomas'
+canonicalURL: 'https://www.santiagoferrer.mx/essays/crisis-inmobiliaria-de-interlomas/'
 
 date: '2023-11-23T12:56:19-06:00'
 author: Santiago Ferrer
