@@ -3,7 +3,7 @@ title: 'Why should you buy a senior care facility?'
 url: blog/why-should-you-buy-a-senior-care-facility
 canonicalURL: 'https:www.//santiagoferrer.mx/blog/why-should-you-buy-a-senior-care-facility'
 
-date: '2025-01-01T21:40:45-06:00'
+date: '2025-01-01T20:40:45-06:00'
 author: 'Santiago Ferrer'
 draft: false
 description: "A brief summary of the opportunity and business plan for buying a senior care facility…"
